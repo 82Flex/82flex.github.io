@@ -57,6 +57,7 @@ main > .tagline {
 
 main > .footer {
 	font-size: 0.6rem;
+	margin: 1.0rem 0;
 }
 
 a {
